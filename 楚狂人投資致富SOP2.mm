@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="楚狂人投資致富SOP2" FOLDED="false" ID="ID_3301049" CREATED="1614504291263" MODIFIED="1614514540671" STYLE="oval">
+<node TEXT="楚狂人投資致富SOP2" FOLDED="false" ID="ID_3301049" CREATED="1614504291263" MODIFIED="1614561837691" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle">
     <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
@@ -64,7 +64,7 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="6" RULE="ON_BRANCH_CREATION"/>
-<hook URI="../../../../C:/Users/chen1/Downloads/44386978986883760720145614090256.jpg" SIZE="1.0" NAME="ExternalObject"/>
+<hook URI="cover/楚狂人投資致富SOP2.jpg" SIZE="1.0" NAME="ExternalObject"/>
 <node TEXT="進場實作" POSITION="right" ID="ID_1314472760" CREATED="1614514407873" MODIFIED="1614514441166">
 <edge COLOR="#00ff00"/>
 <font SIZE="14"/>
@@ -118,7 +118,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
