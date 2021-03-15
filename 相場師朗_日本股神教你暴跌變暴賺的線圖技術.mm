@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="日本股神教你暴跌變暴賺的線圖技術" FOLDED="false" ID="ID_807898336" CREATED="1614659476672" MODIFIED="1614659543689" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle">
+<hook NAME="MapStyle" zoom="1.334">
     <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="10" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="11" RULE="ON_BRANCH_CREATION"/>
 <hook URI="cover/日本股神教你暴跌變暴賺的線圖技術.jpg" SIZE="0.49526834" NAME="ExternalObject"/>
 <node TEXT="相場師朗" POSITION="right" ID="ID_974937319" CREATED="1614659612967" MODIFIED="1614659625078">
 <edge COLOR="#ff0000"/>
@@ -73,7 +73,7 @@
 <hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/相場師朗_照片.png" SIZE="0.25912663" NAME="ExternalObject"/>
 </node>
 <node TEXT="與是川銀藏(價值投資)操盤差異很大，以技術面為主" ID="ID_379743013" CREATED="1614684244916" MODIFIED="1614684283802"/>
-<node TEXT="1、均線排列方式 2. 整數股價 3.前一波高、低點 4. K線數量(9日法則)" ID="ID_1278138203" CREATED="1615618242280" MODIFIED="1615618276740"/>
+<node TEXT="1、均線排列方式 2. 整數股價 3.前一波高、低點 4. K線數量(9日法則)" ID="ID_1278138203" CREATED="1615618242280" MODIFIED="1615774822258" COLOR="#ff3300"/>
 </node>
 <node TEXT="放空" POSITION="left" ID="ID_1118806301" CREATED="1614684162002" MODIFIED="1614684172463">
 <edge COLOR="#0000ff"/>
@@ -107,7 +107,7 @@
 <node TEXT="均線(moving average)(非常重要)" POSITION="right" ID="ID_114076623" CREATED="1614684173798" MODIFIED="1615601862075">
 <edge COLOR="#00ff00"/>
 <node TEXT="" ID="ID_1678891444" CREATED="1615601930777" MODIFIED="1615601940998">
-<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/2-3_均線排列.png" SIZE="0.6029435" NAME="ExternalObject"/>
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/2-3_均線排列.png" SIZE="0.6127708" NAME="ExternalObject"/>
 </node>
 <node TEXT="5日(週)線，20日(月)線，60日(季)線為重要關卡 (120日(半年)線，240日(年)線)，台灣與日本略有不同" ID="ID_1151297973" CREATED="1615601964190" MODIFIED="1615602138214" COLOR="#ff3300">
 <node TEXT="PPP: 5 &gt; 20 &gt; 60 &gt; 120 &gt; 240，多頭排列" ID="ID_1447213586" CREATED="1615602403515" MODIFIED="1615602509412"/>
@@ -239,7 +239,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="無論上漲或下跌，很少會連續發生多日，一般在4日左右會有反轉(7日法則的平均數為4)" ID="ID_731622939" CREATED="1615616650197" MODIFIED="1615616746338"/>
@@ -258,9 +257,98 @@
 <node TEXT="2的法則" ID="ID_1130845589" CREATED="1615618584207" MODIFIED="1615618724877">
 <node TEXT="判斷反彈脫手的時機" ID="ID_445015264" CREATED="1615618591875" MODIFIED="1615618601751"/>
 <node TEXT="由反PPP(100&gt;60&gt;20&gt;5)開始反轉上升時，5日線可碰到的均線最多2條，即最多碰到60日線後就會再反轉" ID="ID_203505008" CREATED="1615618619180" MODIFIED="1615618688624"/>
-<node TEXT="反之PPP開始下殺後，5日線最多下殺到60日線就會再反轉向上" ID="ID_986677426" CREATED="1615618689339" MODIFIED="1615618717277"/>
+<node TEXT="反之PPP開始下殺後，5日線最多下殺到60日線就會再反轉向上" ID="ID_986677426" CREATED="1615618689339" MODIFIED="1615773919106" COLOR="#ff3300"/>
 <node TEXT="" ID="ID_365762720" CREATED="1615618752371" MODIFIED="1615618760425">
 <hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/2-23_2的法則.png" SIZE="0.6943072" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+<node TEXT="下跌的模式" POSITION="left" ID="ID_841344789" CREATED="1615774107458" MODIFIED="1615780706831">
+<edge COLOR="#7c7c00"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+<node TEXT="" ID="ID_1362034970" CREATED="1615774134937" MODIFIED="1615774168413">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-1_下跌的模式.png" SIZE="0.59983724" NAME="ExternalObject"/>
+<node TEXT="上漲-&gt;想買的人都買完了，盤整-&gt;準備下跌" ID="ID_276986969" CREATED="1615774715740" MODIFIED="1615774758924"/>
+<node TEXT="放空需要準備，要了解價格的強弱(K線與深度)" ID="ID_713489687" CREATED="1615775001084" MODIFIED="1615775031723"/>
+<node TEXT="高點賣空比低部買進更困難，與投資人心理狀態有關" ID="ID_1306170404" CREATED="1615780348415" MODIFIED="1615780405953" COLOR="#ff3300">
+<node TEXT="股價底部比較長，高點比較短" ID="ID_1718119929" CREATED="1615780413379" MODIFIED="1615780426377"/>
+<node TEXT="底部會出現成交量很低的狀態(沒有人要買)，買盤是慢慢出現" ID="ID_1749175667" CREATED="1615780433371" MODIFIED="1615780462271"/>
+<node TEXT="高檔時，獲利了結與逢低買進的人都有，難以判斷" ID="ID_1314564032" CREATED="1615780471142" MODIFIED="1615780488784"/>
+<node TEXT="下跌時，難以判斷是沒有人要買，還是逢低買進的買盤未出現" ID="ID_249566339" CREATED="1615780503830" MODIFIED="1615780536139" COLOR="#3333ff"/>
+</node>
+</node>
+<node TEXT="" ID="ID_1983372915" CREATED="1615775233525" MODIFIED="1615775243501">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-2_1987日本黑色星期一.png" SIZE="0.65323937" NAME="ExternalObject"/>
+<node TEXT="暴跌之後，會有小反彈，通常會有至少兩次形成W底, V轉少見" ID="ID_209103198" CREATED="1615775466250" MODIFIED="1615775495039"/>
+<node TEXT="" ID="ID_1056067167" CREATED="1615775796598" MODIFIED="1615775854094">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-3_黑色星期一放大圖.png" SIZE="0.5957545" NAME="ExternalObject"/>
+<node TEXT="在1之前，已經連漲7天，滿足7日法則條件" ID="ID_316179838" CREATED="1615775860564" MODIFIED="1615775880418"/>
+<node TEXT="在1之後，跌破5日線" ID="ID_525545113" CREATED="1615775884138" MODIFIED="1615775897230"/>
+<node TEXT="在2的黑k線之後的大跌，是無法預料幅度的" ID="ID_1507783944" CREATED="1615775909323" MODIFIED="1615775932038"/>
+<node TEXT="在2之後跌破季線，就難以漲回去" ID="ID_146134132" CREATED="1615775959038" MODIFIED="1615775971495"/>
+</node>
+<node TEXT="" ID="ID_1653776231" CREATED="1615776218170" MODIFIED="1615776235635">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-4_黑色星期一後續.png" SIZE="0.6704" NAME="ExternalObject"/>
+<node TEXT="下跌之後，依7日法則約到第4日有小反彈" ID="ID_1016466792" CREATED="1615776256616" MODIFIED="1615776282274"/>
+<node TEXT="之後再跌約5天後再反彈" ID="ID_166867231" CREATED="1615776286545" MODIFIED="1615776298664"/>
+<node TEXT="反彈之後，上方的均線和整數關卡會成為壓力，再往下跌" ID="ID_475738311" CREATED="1615776314901" MODIFIED="1615776349646" COLOR="#ff3300">
+<font BOLD="true"/>
+</node>
+<node TEXT="用7日法則計算下跌的黑線，猜反彈的時機，同時可看出下跌的強弱" ID="ID_739649208" CREATED="1615776543232" MODIFIED="1615776590632">
+<font BOLD="true"/>
+</node>
+<node TEXT="暴跌之後，出現下半身要先回補，以反正還會再跌的信念，等反彈後的下跌" ID="ID_1606985033" CREATED="1615776599291" MODIFIED="1615776638754">
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+<node TEXT="" ID="ID_1930392942" CREATED="1615776727124" MODIFIED="1615776742826">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-5_2007-2009金融海嘯.png" SIZE="0.71447647" NAME="ExternalObject"/>
+<node TEXT="在A點均線糾結，即不論多少天買的股價都差不多，沒有賺頭，可視為盤整" ID="ID_7251533" CREATED="1615776770489" MODIFIED="1615777109967" COLOR="#ff3300"/>
+<node TEXT="20、60、100日糾結時，大幅向上或向下的機會很大" ID="ID_278864026" CREATED="1615777146567" MODIFIED="1615777170579"/>
+<node TEXT="下跌是否持續，是以5日線的低點往下走判斷" ID="ID_1577241476" CREATED="1615777970030" MODIFIED="1615777988840"/>
+<node TEXT="" ID="ID_1429827303" CREATED="1615777203843" MODIFIED="1615777213810">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-6_金融海嘯均線.png" SIZE="0.6027682" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="" ID="ID_159700786" CREATED="1615778050542" MODIFIED="1615778063006">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-7_下跌反彈的時機.png" SIZE="0.6895203" NAME="ExternalObject"/>
+<node TEXT="開始下跌前，均線糾結形成盤整" ID="ID_392482749" CREATED="1615778085178" MODIFIED="1615778108622"/>
+<node TEXT="在1,2雖然價格開始反轉，但均線排列未改變，做空還太早" ID="ID_749253369" CREATED="1615778125408" MODIFIED="1615778157745"/>
+<node TEXT="但以1來說，可視為M頂，即第二次攻頂失敗" ID="ID_1635883366" CREATED="1615778182534" MODIFIED="1615778202795"/>
+<node TEXT="在3均線死亡交叉時，為做空的好時機" ID="ID_1574137388" CREATED="1615778216073" MODIFIED="1615778233840"/>
+<node TEXT="之後跳空下跌，到第7日的4點時，300日線有支撐，應回補，但是否搶反彈需觀望" ID="ID_1941094268" CREATED="1615778269234" MODIFIED="1615778348731"/>
+<node TEXT="由於反彈後的5日線未破前波高點，可趁反彈再放空" ID="ID_1902533103" CREATED="1615778411605" MODIFIED="1615778433414"/>
+<node TEXT="" ID="ID_1169411036" CREATED="1615778461813" MODIFIED="1615778473860">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-8_反彈之後的觀察.png" SIZE="0.58671564" NAME="ExternalObject"/>
+<node TEXT="在急跌之後，下殺幅度變小，即放空利潤變少" ID="ID_1763337240" CREATED="1615778908268" MODIFIED="1615778932058"/>
+<node TEXT="但是5日線的低點仍然向下，仍為下跌格局" ID="ID_899890354" CREATED="1615778939593" MODIFIED="1615778954304"/>
+</node>
+<node TEXT="" ID="ID_1493310715" CREATED="1615779003801" MODIFIED="1615779015588">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-9_反轉劇本.png" SIZE="0.6121519" NAME="ExternalObject"/>
+<node TEXT="看圖的第一步就是找5日線的前一個低點、前一個高點以及整數關卡" ID="ID_1096078859" CREATED="1615779057096" MODIFIED="1615779078205"/>
+<node TEXT="5日線在A黃金交叉時，不要在B點買進，因為會有解套賣壓，最好等到沒有再跌破A後進行買進" ID="ID_323100622" CREATED="1615779119699" MODIFIED="1615779209083"/>
+</node>
+</node>
+<node TEXT="" ID="ID_648484838" CREATED="1615779253280" MODIFIED="1615779298350">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-10_5日線的趨勢.png" SIZE="0.68482095" NAME="ExternalObject"/>
+<node TEXT="" ID="ID_1684589090" CREATED="1615779573948" MODIFIED="1615779582966">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-10_預測下下一步.png" SIZE="0.6573452" NAME="ExternalObject"/>
+</node>
+<node TEXT="" ID="ID_503102677" CREATED="1615779789406" MODIFIED="1615779801009">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-13_7日法則的應用.png" SIZE="0.68452054" NAME="ExternalObject"/>
+</node>
+<node TEXT="" ID="ID_1236965581" CREATED="1615779882587" MODIFIED="1615779891329">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-15_2018日經預測.png" SIZE="0.6673113" NAME="ExternalObject"/>
+<node TEXT="" ID="ID_1660327437" CREATED="1615779965689" MODIFIED="1615779974706">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-16_2018日經實際走勢.png" SIZE="0.6653784" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+<node TEXT="" ID="ID_1405208268" CREATED="1615780260715" MODIFIED="1615780271132">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-19_2012日經平均下跌幅度.png" SIZE="0.6722887" NAME="ExternalObject"/>
+<node TEXT="" ID="ID_1666590490" CREATED="1615780315204" MODIFIED="1615780325375">
+<hook URI="img/相場師朗_日本股神教你暴跌變暴賺的線圖技術/3-19_表格.png" SIZE="0.86178553" NAME="ExternalObject"/>
 </node>
 </node>
 </node>
