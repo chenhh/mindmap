@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="日本股神教你暴跌變暴賺的線圖技術" FOLDED="false" ID="ID_807898336" CREATED="1614659476672" MODIFIED="1614659543689" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="1.334">
+<hook NAME="MapStyle" zoom="0.25">
     <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
