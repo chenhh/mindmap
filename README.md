@@ -11,3 +11,7 @@
 
 ### [技術分析]
 * ["日本股神教你暴跌變暴賺的線圖技術"，相場師朗著；張婷婷譯，今週刊出版 ，2020](相場師朗_日本股神教你暴跌變暴賺的線圖技術.pdf)
+
+### [情報學]
+
+* Mark M. Lowenthal and Robert M. Clark著，孟林譯， 情報蒐集的五大科目(The Five Disciplines of Intelligence Collection), 金城出版社, 2011。
